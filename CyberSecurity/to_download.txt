@@ -1,0 +1,11 @@
+pip install requests beautifulsoup4
+pip install Pillow
+
+pip install pillow-stubs
+pip install piexif
+
+https://raw.githubusercontent.com/ianare/exif-samples/master/jpg/Canon_40D.jpg
+
+pip install pillow piexif
+
+https://books.toscrape.com/
