@@ -47,7 +47,7 @@ def generate_otp(path):
 
         hmac_hash = hmac.new(key_bytes, timestep_bytes, hashlib.sha1).digest() # HMAC-SHA1 hash
         # Extract the last nibble (4 bits) of the last byte to determine the offset
-        offset = hmac_hash[-1] & 0x0F # Last 4 bits of the last byte  # binary: 10011111
+        offset = hmac_hash[-1] & 0x0F #This gives a value between 0 and 15  # binary: 10011111
         # Extract 4 bytes from the hash using the offset
 
         # Dynamic Truncation
@@ -57,7 +57,10 @@ def generate_otp(path):
             ((hmac_hash[offset + 2] & 0xFF) << 8) |
             (hmac_hash[offset + 3] & 0xFF)
         )
-
+        # Takes 4 bytes starting at the dynamic offset in the HMAC hash.
+        # Converts those 4 bytes into a 31-bit integer (i.e. no negative values).
+        # Uses that number to produce a 6-digit OTP.
+        
         otp = code % 10**6
         print(f"{otp:06d}")  # Always 6-digit format
 

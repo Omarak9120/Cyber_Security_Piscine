@@ -1,1 +1,4 @@
 "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef" | Out-File -Encoding ascii -NoNewline key.hex
+pip install qrcode[pil]
+TOTP (Time-Based One-Time Password)
+2FA = Two-Factor Authentication
