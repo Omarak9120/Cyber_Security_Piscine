@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  ftp-server:
+    image: fauria/vsftpd
+    container_name: ftp-server
+    ports:
+      - "21:21"
+    environment:
+      - FTP_USER=user
+      - FTP_PASS=pass123
+      - PASV_ADDRESS=127.0.0.1
+    volumes:
+      - ./ftp-data:/home/vsftpd
+    networks:
+      cyber_net:
+        ipv4_address: 172.20.0.10
+
+  attacker:
+    build: ./attacker
+    container_name: attacker
+    cap_add:
+      - NET_ADMIN
+    tty: true
+    stdin_open: true
+    networks:
+      cyber_net:
+        ipv4_address: 172.20.0.20
+
+networks:
+  cyber_net:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.20.0.0/16
