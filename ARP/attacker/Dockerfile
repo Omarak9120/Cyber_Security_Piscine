@@ -1,18 +1,23 @@
 FROM debian:bullseye
 
-# Install essential tools
-RUN apt-get update && apt-get install -y \
-    tcpdump \
-    iputils-ping \
-    net-tools \
-    ftp \
-    curl \
-    vim \
-    nano \
-    && rm -rf /var/lib/apt/lists/*
+ENV DEBIAN_FRONTEND=noninteractive
 
-# Set a working directory
-WORKDIR /workspace
+RUN apt-get update && \
+    for i in 1 2 3; do apt-get install -y --fix-missing \
+      dnsutils \
+      curl \
+      vim \
+      python3 \
+      python3-pip \
+      tcpdump \
+      iputils-ping \
+      net-tools \
+      ftp \
+      nano && break || sleep 10; done && \
+    rm -rf /var/lib/apt/lists/*
 
-# Default command
-CMD ["bash"]
+    COPY analyse.sh /root/analyse.sh
+    COPY sniff_ftp.py /root/sniff_ftp.py
+    
+    WORKDIR /root
+    RUN chmod +x analyse.sh

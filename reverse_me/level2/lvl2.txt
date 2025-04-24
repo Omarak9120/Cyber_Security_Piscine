@@ -1,0 +1,14 @@
+objdump -s -j .rodata level2 | less >> omar.txt
+
+strings level2 | grep -A5 "Please enter key"
+
+first 2 char of the input are '00' , then the next 3-digit chunks by atoi func . the d is hardcoded , continue until the form an 8-char string "delabere"
+s[1]: e 101
+s[2]: l 108
+s[3]: a 97
+s[4]: b 98
+s[5]: e 101
+s[6]: r 114
+s[7]: e 101
+
+  → "99105101" → split to "099", "105", "101" → converts to 'c', 'i', 'e'. 
